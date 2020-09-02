@@ -1,4 +1,4 @@
-# Alena Troia and Stephanie Kostrzeski and Kirtan Jani
+# Kirtan Jani
 # HW 3: Connect Four
 # Due 10/18/19
 

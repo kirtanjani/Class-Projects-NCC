@@ -1,4 +1,4 @@
-# Alena Troia and Stephanie Kostrzeski and Kirtan Jani
+# Kirtan Jani
 # HW 4: Sort by distance from origin
 # Due 10/25/19
 

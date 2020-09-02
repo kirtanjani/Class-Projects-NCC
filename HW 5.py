@@ -1,4 +1,4 @@
-# Alena Troia and Stephanie Kostrzeski and Kirtin Jani
+# Kirtin Jani
 # HW 5: Black Jack
 # Due 11/22/19 at 8am
 

@@ -1,4 +1,4 @@
-# Alena Troia and Stephanie Kostrzeski and Kirtin Jani
+# Kirtan Jani
 # HW 6: Soduku
 # Due 12/4/19 at 8am
 
